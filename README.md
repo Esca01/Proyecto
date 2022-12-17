@@ -11,7 +11,7 @@ Para correr el juego debes seguri las siguientes instrucciones en la terminal:
 
 
 ```sh
- git clone
+ git clone {url del HTTP o del SSH}
  cd app
  python3 -m venv env
  source env/bin/activate
